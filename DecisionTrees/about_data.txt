@@ -1,0 +1,1 @@
+データはBayesで使ったclass1.csvとclass2.csvを再利用すること

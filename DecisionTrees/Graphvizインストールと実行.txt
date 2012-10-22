@@ -1,0 +1,2 @@
+$ sudo apt-get install graphviz
+$ dot -T png -o decisiontree_simple.png decisiontree_simple.graphviz
