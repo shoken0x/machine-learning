@@ -1,8 +1,5 @@
-MachineLearning
+Machine Learning in python
 ===============
-
-MachineLearning in python
-
 
 ## Initial Settings
 
