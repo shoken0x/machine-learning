@@ -22,6 +22,7 @@ numpy-1.6.2-py2.7.egg-info setuptools.pth
 pip-1.2.1-py2.7.egg sklearn
 pylab.py
 
+####
 (bootcamp1)$ deactivate 
 ```
 
